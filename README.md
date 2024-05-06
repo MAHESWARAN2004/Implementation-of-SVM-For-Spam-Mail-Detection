@@ -9,10 +9,15 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 ## Algorithm
 step-1: start.
+
 step-2: Import chardet.
+
 step-3: Read the dataset.
+
 step-4: Import SVC from sklearn.
+
 step-5: Fit the data in the model and run the algorithm.
+
 step-6: stop.
 
 ## Program:
